@@ -19,4 +19,4 @@ Instead of removing items from this list, use tildes to strikethrough completed 
 * HTTPS server configuration for elf-backend proxy
 * An option in elf-frontend to pin important items to top
 
-*Last updated 01.04.2016*
+*Last updated 02.04.2016*
