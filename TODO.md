@@ -19,5 +19,7 @@ Instead of removing items from this list, use tildes to strikethrough completed 
 * HTTPS server configuration for elf-backend proxy
 * An option in elf-frontend to pin important items to top
 * A daemon module for special configuration for API routes such as specified hostnames and subdirectories
+* Fix elf-frontend Apache directives - local
+* Add Bower configurations to map error pages to /error/404.html not /pages/error/404.html
 
 *Last updated 03.04.2016*
