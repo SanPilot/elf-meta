@@ -18,5 +18,6 @@ Instead of removing items from this list, use tildes to strikethrough completed 
 * HTTPS configurations for elf-frontend Apache server
 * HTTPS server configuration for elf-backend proxy
 * An option in elf-frontend to pin important items to top
+* A daemon module for special configuration for API routes such as specified hostnames and subdirectories
 
-*Last updated 02.04.2016*
+*Last updated 03.04.2016*
