@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300" width="300" alt="Elf" src="icons/elf-logo.min.svg" style="margin-bottom: 20px">
+<img height="300" width="300" alt="Elf" src="icons/elflogo2.svg" style="margin-bottom: 20px">
 </p>
 # Elf
 ### or, Epic Lab Form
@@ -21,5 +21,9 @@ Instead of removing items from this list, use tildes to strikethrough completed 
 * A daemon module for special configuration for API routes such as specified hostnames and subdirectories
 * Fix elf-frontend Apache directives - local
 * Add Bower configurations to map error pages to /error/404.html not /pages/error/404.html
+* Complete background (https://www.desktoppr.co/api), MongoDB and assetstore modules
+* Add cron job modules
+* Add elf/profile webpage to frontend
+* Finish implementation of new logo
 
-*Last updated 03.04.2016*
+*Last updated 10.04.2016*
